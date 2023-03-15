@@ -12,7 +12,7 @@
 
 2. htdocs 폴더 안에서 GIT CLONE 후 폴더명은 ajax_crud로 변경 (설치 방법 1)
 
-3. ZIP 파일로 받은 소스는 압축을 풀고 htdocs 폴더 안에 ajax_crud로 폴더명으로 변경한 뒤 복사
+3. ZIP 파일로 받은 소스는 압축을 풀고 htdocs 폴더 안에 ajax_crud로 폴더명을 변경한 뒤 복사
 (설치 방법 2)
 
 4. 소스가 설치되는 위치는 윈도우 기준 C:\xampp7.4.29\htdocs\ 폴더 안으로 다운 받은 소스를 ajax_crud로 폴더명으로 집어넣으면 됨.
