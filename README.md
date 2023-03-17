@@ -2,7 +2,7 @@
 
 1. <https://www.youtube.com/watch?v=1R9iHaZoE2Q&t=5056s>
 
-2. <https://youtu.be/A9xIZA2g0g8>
+2. <https://youtu.be/_TaWxXvtfAo>
 
 3. ![캡처](screenshot/screenshot.png)
 
